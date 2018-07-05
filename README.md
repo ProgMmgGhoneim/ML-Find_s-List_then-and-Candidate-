@@ -1,3 +1,3 @@
-find_s
+FIND_S
 LIST THEN
 CANDIDATE
