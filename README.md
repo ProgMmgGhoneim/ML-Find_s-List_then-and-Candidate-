@@ -1,1 +1,3 @@
 # find_s
+LIST THEN
+CANDIDATE
